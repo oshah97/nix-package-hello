@@ -1,2 +1,2 @@
 # nix-package-hello
-Simple derivation for Nix
+Simple derivation from Nix documentation
